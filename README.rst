@@ -12,9 +12,6 @@ I just did discord ~> disnake
 
 Real Module can be found `here <https://github.com/Shirataki2/discord-ext-audiorec/>`_
 
-
-Inspired by `disnake-ext-native-voice <https://github.com/Rapptz/discord-ext-native-voice>`_
-
 Installation
 ============
 
