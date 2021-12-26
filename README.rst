@@ -7,7 +7,9 @@ disnake-ext-audiorec
 **This project is currently under development. We do not guarantee it works.**
 
 A disnake **experimental** extension for audio recording
-I just did discord ~> disnake\n
+
+I just did discord ~> disnake
+
 Real Module can be found `here <https://github.com/Shirataki2/discord-ext-audiorec/>`_
 
 
