@@ -8,7 +8,7 @@ disnake-ext-audiorec
 
 A disnake **experimental** extension for audio recording
 I just did discord ~> disnake
-Real Module can be found `_here <https://github.com/Shirataki2/discord-ext-audiorec/>`_
+Real Module can be found `here <https://github.com/Shirataki2/discord-ext-audiorec/>`_
 
 
 Inspired by `disnake-ext-native-voice <https://github.com/Rapptz/discord-ext-native-voice>`_
