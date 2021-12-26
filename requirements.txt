@@ -1,1 +1,1 @@
-disnake[voice]
+disnake
