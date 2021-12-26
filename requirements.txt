@@ -1,1 +1,1 @@
-disnake[voice]>=1.7,<2.0
+disnake[voice]
